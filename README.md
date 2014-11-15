@@ -11,6 +11,9 @@ Please check the Makefile and Scripts to modify paths accordingly.
 ## Usage
 See LCD.h file for list of functions. <br>
 See examples to see their usage. <br>
+
+LCD_4BitInit(..) is most likely the initialization you need if you are using only 4 wires for data lines. Does not matter if it is db0-3 or db5-7.
+
 The [Arduino LiquidCrystal tutorials](http://arduino.cc/en/Tutorial/LiquidCrystal) may be helpful, although the syntax is slightly different.
 
 ## Commands
