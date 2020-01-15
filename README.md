@@ -25,7 +25,7 @@ ST-UTIL: starts utility server to talk to board <br>
 DEBUG: starts debug console and hooks to server
 
 ## Contact
-Maintainer: [Sharan ***REMOVED***](https://github.com/***REMOVED***)  ***REMOVED***
+Maintainer: [Sharan ***REMOVED***](https://github.com/AtomicAntimatter)  ***REMOVED***
 
 ## LICENSE
 STM32F4 LCD Library is available under the Creative Commmons Attribution-ShareAlike License.
